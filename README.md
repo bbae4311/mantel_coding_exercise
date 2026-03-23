@@ -5,7 +5,7 @@
 .\mantel_coding_exercise\bin\Debug\net8.0
 * Run the application and pass the log file as an argument.
 ex. 
-.\mantel_coding_exercise.exe ..\..\..\programming-task-example-data.log
+.\mantel_coding_exercise.exe ..\\..\\..\programming-task-example-data.log
 
 
 
